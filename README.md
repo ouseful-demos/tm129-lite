@@ -7,6 +7,7 @@ This repo contains a simple Dockerfile that loads the container released to stud
 
 You can run the RoboLab environment online using the MyBinder service: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ouseful-demos/tm129-lite/HEAD)
 
+__*When running the VCE using MyBinder, ignore the "Making the notebooks shareable" and "Making the supplied notebook content visible on your computer desktop" sections in the README_FIRST notebook. THESE ONLY APPLY WHEN RUNNING THE  DOCKER CONTAINER ON YOUR ON COMPUTER.*__
 
 If you want to save any of the notebooks used there, you will have to download them as follows:
 
