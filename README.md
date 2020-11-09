@@ -3,7 +3,7 @@ Lite TM129 demo
 
 This repo contains a simple Dockerfile that loads the container released to students for the OU TM129 module robotics block practical activities.
 
-### Accessing RoboLab and the TM129 Virtual COmputing Environment (VCE) Online - MyBinder / BinderHub
+### Accessing RoboLab and the TM129 Virtual Computing Environment (VCE) Online - MyBinder / BinderHub
 
 You can run the RoboLab environment online using the MyBinder service: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ouseful-demos/tm129-lite/HEAD)
 
