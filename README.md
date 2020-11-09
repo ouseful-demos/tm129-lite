@@ -26,7 +26,7 @@ To save your work when working on MyBinder, there are two approaches you can tak
 
 When running a notebook in MyBinder, on the toolbar you will see a group of three icons:
 
-![](./images/browser_storage.png)
+![](.images/browser_storage.png)
 
 The cloud buttons with the up and down arrows can be used to save the current notebook using your web browser's file storage mechanism.
 
@@ -44,11 +44,11 @@ __TO CHECK: does file storage synch across logged in instances of Chrome?__
 
 Another way of saving files is to download them to your own computer desktop and then upload then when you want to work on them again. The *Download* button will download the current notebook to you desktop. You can then upload a notebook saved to your desktop using the *Upload* button on the notebook server home page.
 
-![](./images/jupyter_notebook_upload.png)
+![](.images/jupyter_notebook_upload.png)
 
 The "down" arrow button on the top right-hand side notebook homepage will zip and download *all* the files in the notebook listing, including all the files in any subdirectories / subfolders.
 
 Alternatively, if you check a single file from the notebook homepage, you can choose to selectively download just that file by clicking the *Download* button from that is displayed when you check the item.
 
-![](./images/jupyter_select_download.png)
+![](.images/jupyter_select_download.png)
 
